@@ -28,7 +28,7 @@ const ContactPage = () => {
         {/* Parallax Header with Image */}
         <section style={{ height: '75vh', position: 'relative', overflow: 'hidden', background: '#000' }}>
           <motion.div style={{ position: 'absolute', top: '-50px', left: '-50px', right: '-50px', bottom: '-50px', y: headerY }}>
-            <img src="/Red Komodo Drone shot warehouse.png" alt="Operations" style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'grayscale(0.3) saturate(0.6) contrast(1.1) brightness(0.4)' }} />
+            <img src="Red Komodo Drone shot warehouse.png" alt="Operations" style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'grayscale(0.3) saturate(0.6) contrast(1.1) brightness(0.4)' }} />
           </motion.div>
           <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, var(--bg-dark) 0%, transparent 80%)' }} />
 

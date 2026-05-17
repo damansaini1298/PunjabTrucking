@@ -31,7 +31,7 @@ const Hero = () => {
           initial={{ opacity: 0, scale: 1.06 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 2.2, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
-          src="/hero_section3-2.png"
+          src="hero_section3-2.png"
           alt="Punjab Trucking Kenworth on highway"
           className="hero-img"
           style={{

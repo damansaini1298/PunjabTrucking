@@ -20,10 +20,10 @@ const Fleet = () => {
   });
 
   const capabilities = [
-    { id: '01', title: 'Monolithic Assets', desc: 'Top-tier Kenworth trucks engineered for peak performance, maximum efficiency, and unprecedented heavy-haul capability. A massive fleet designed for scale.', img: '/img2.png' },
-    { id: '02', title: 'Human Operations', desc: 'An elite roster of seasoned drivers. We invest heavily in human capital ensuring every route is executed with unmatched professionalism and tactical precision.', img: '/img_driver1.png' },
-    { id: '03', title: 'Precise Execution', desc: 'Seamless logistical tracking and master-level dispatching. A fully transparent framework that ensures your high-value freight arrives precisely on schedule.', img: '/tech_macro.png' },
-    { id: '04', title: <>Safety<br />Culture</>, desc: 'Zero-incident operations. We exceed DOT compliance with rigorous internal safety standards, continuous specialized training, and no-compromise protocols.', img: '/img4.png' },
+    { id: '01', title: 'Monolithic Assets', desc: 'Top-tier Kenworth trucks engineered for peak performance, maximum efficiency, and unprecedented heavy-haul capability. A massive fleet designed for scale.', img: 'img2.png' },
+    { id: '02', title: 'Human Operations', desc: 'An elite roster of seasoned drivers. We invest heavily in human capital ensuring every route is executed with unmatched professionalism and tactical precision.', img: 'img_driver1.png' },
+    { id: '03', title: 'Precise Execution', desc: 'Seamless logistical tracking and master-level dispatching. A fully transparent framework that ensures your high-value freight arrives precisely on schedule.', img: 'tech_macro.png' },
+    { id: '04', title: <>Safety<br />Culture</>, desc: 'Zero-incident operations. We exceed DOT compliance with rigorous internal safety standards, continuous specialized training, and no-compromise protocols.', img: 'img4.png' },
   ];
 
   return (

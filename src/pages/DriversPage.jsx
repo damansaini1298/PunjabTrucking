@@ -50,7 +50,7 @@ const DriversPage = () => {
         {/* Full Bleed Parallax Hero */}
         <section style={{ position: 'relative', height: '90vh', overflow: 'hidden', background: '#000' }}>
           <motion.div style={{ position: 'absolute', top: '-50px', left: '-50px', right: '-50px', bottom: '-50px', y: heroY }}>
-            <img src="/img_driver1.png" alt="Driver Operations" style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'brightness(0.35) contrast(1.1) grayscale(0.5)' }} />
+            <img src="img_driver1.png" alt="Driver Operations" style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'brightness(0.35) contrast(1.1) grayscale(0.5)' }} />
           </motion.div>
 
           <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, var(--bg-dark) 0%, transparent 60%)' }} />

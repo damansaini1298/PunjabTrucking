@@ -68,29 +68,29 @@ const Gallery = () => (
 
       {/* Row 1 - Hero */}
       <div style={{ marginBottom: '1rem' }}>
-        <GalleryImage src="/Red Komodo Drone shot.png" alt="Fleet Aerial" height="clamp(40vh, 60vw, 70vh)" parallax />
+        <GalleryImage src="Red Komodo Drone shot.png" alt="Fleet Aerial" height="clamp(40vh, 60vw, 70vh)" parallax />
       </div>
 
       {/* Row 2 - 50/50 */}
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', marginBottom: '1rem' }}>
-        <GalleryImage src="/Red Komodo Drone shot2.1.png" alt="Drone View 2" height="clamp(30vh, 40vw, 45vh)" />
-        <GalleryImage src="/Red Komodo Drone shot3.png" alt="Drone View 3" height="clamp(30vh, 40vw, 45vh)" parallax />
+        <GalleryImage src="Red Komodo Drone shot2.1.png" alt="Drone View 2" height="clamp(30vh, 40vw, 45vh)" />
+        <GalleryImage src="Red Komodo Drone shot3.png" alt="Drone View 3" height="clamp(30vh, 40vw, 45vh)" parallax />
       </div>
 
       {/* Row 3 - Large Single with padding */}
       <div style={{ padding: '4rem 10%', marginBottom: '1rem' }}>
-        <GalleryImage src="/Red Komodo Drone shot4.png" alt="Drone View 4" height="clamp(40vh, 55vw, 60vh)" parallax />
+        <GalleryImage src="Red Komodo Drone shot4.png" alt="Drone View 4" height="clamp(40vh, 55vw, 60vh)" parallax />
       </div>
 
       {/* Row 4 - 60/40 */}
       <div style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: '1rem', marginBottom: '1rem' }}>
-        <GalleryImage src="/Red Komodo Drone shot5.png" alt="Drone View 5" height="clamp(30vh, 40vw, 50vh)" parallax />
-        <GalleryImage src="/Red Komodo Drone shot6.png" alt="Drone View 6" height="clamp(30vh, 40vw, 50vh)" />
+        <GalleryImage src="Red Komodo Drone shot5.png" alt="Drone View 5" height="clamp(30vh, 40vw, 50vh)" parallax />
+        <GalleryImage src="Red Komodo Drone shot6.png" alt="Drone View 6" height="clamp(30vh, 40vw, 50vh)" />
       </div>
 
       {/* Row 5 - Final Hero */}
       <div>
-        <GalleryImage src="/Red Komodo Drone shot7.png" alt="Drone View 7" height="clamp(45vh, 60vw, 65vh)" parallax />
+        <GalleryImage src="Red Komodo Drone shot7.png" alt="Drone View 7" height="clamp(45vh, 60vw, 65vh)" parallax />
       </div>
     </div>
   </section>

@@ -32,7 +32,7 @@ const Quote = () => {
             style={{ position: 'relative', height: 'clamp(350px, 50vh, 600px)', borderRadius: '4px', overflow: 'hidden' }}
           >
             <img
-              src="/img_coast2.png"
+              src="img_coast2.png"
               alt="Coastal Highway"
               style={{ objectFit: 'cover', objectPosition: '72% center', width: '100%', height: '100%', filter: 'grayscale(0.6) contrast(1.1) saturate(0.5)' }}
             />

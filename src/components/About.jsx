@@ -192,7 +192,7 @@ const About = () => {
           }}
         >
           <motion.img
-            src="/img_city7.png"
+            src="img_city7.png"
             alt="Cinematic Fleet"
             style={{
               width: '100%', height: '120%', objectFit: 'cover',
