@@ -154,7 +154,7 @@ const Footer = () => {
               © {new Date().getFullYear()} Punjab Trucking Inc. All rights reserved.
             </span>
             <span style={{ fontSize: '0.65rem', color: 'var(--text-muted)', letterSpacing: '0.03em' }}>
-              MC# 1238213 · USDOT# 3622897
+              MC# 0000000 · USDOT# 0000000
             </span>
           </div>
         </div>
