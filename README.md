@@ -4,7 +4,7 @@ An ultra-premium, modern, and high-performance logistics command center web appl
 
 ---
 ## Live Website
-- ** Link: https://damansaini1298.github.io/PunjabTrucking/
+- Link: https://damansaini1298.github.io/PunjabTrucking/
 
 
 ---
